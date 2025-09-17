@@ -1,0 +1,390 @@
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+/* Top-top-bar */
+#top-top-bar {
+  background-color: #a83a37;
+  color: #ffffff;
+  padding: 10px 15px;
+  height: 8vh; /* Controls the top-top-bars height */
+  font-size: 3vh;
+  border-bottom: 1px solid #a83a37;
+}
+
+.top-top-bar-inner {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  
+}
+
+.top-top-bar-inner span {
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 3vh;
+}
+
+#filter-description {
+  margin: 0;
+  color: black;
+  background-color: white;
+  padding-top: 2vh;
+  font-weight: bold;
+}
+
+/* Top-bar */
+#top-bar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #a83a37;
+  padding: 10px 15px;
+  border-bottom: 1px solid #ccc;
+  position: sticky;
+  top: 0;
+  font-size: 3vh;
+  height: 5vh; /* Controls the height of the top-bar */
+  z-index: 1000;
+}
+
+.filter-group {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 7vh;
+  gap: 10px;
+}
+
+#top-bar input {
+  padding: 6px 10px;
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  height: 5vh;
+  font-size: 2.5vh;
+  color:black;
+  font-weight: bold;
+  width: 20vw;
+}
+
+#clear-filters {
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+/* Layout */
+#layout {
+  display: flex;
+  flex-direction: row;
+  height: 81vh;
+}
+
+#map {
+  width: 75vw;
+  height: 82vh; /* height of the map*/
+}
+
+#sidebar {
+  width: 25vw;
+  height: 79vh; /* controls the height of the side */
+  display: flex;
+  flex-direction: column;
+  background-color: #f4f4f4;
+  align-items: center;
+  padding: 10px 1vh 2vh 0;
+}
+
+input[type="text"] {
+  width: 90%;
+  height: 10vh;
+  margin-bottom: 10px;
+  font-size: 3vh;
+  padding: 1vh;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+#name-options {
+  flex-grow: 1;
+  overflow-y: auto;
+  height: 80vh;
+  font-size: 2vh;
+  padding: 1vh;
+  margin: 0;
+  list-style-type: none;
+}
+
+#name-options li {
+  padding: 8px;
+  cursor: pointer;
+}
+
+#name-options li:hover {
+  background-color: #ddd;
+}
+
+/* Fullscreen overlay */
+#fullscreen-overlay {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 75vw;
+  height: 75vh;
+  background-color: rgba(0, 0, 0, 0.9);
+  color: white;
+  z-index: 1000;
+  overflow: hidden;
+  padding: 2%;
+  border-radius: 1%;
+}
+
+#fullscreen-overlay .close-btn {
+  position: absolute;
+  width: 7vw;
+  height: 10vh;
+  top: 10px;
+  right: 20px;
+  background: red;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  font-size: 4vh;
+  cursor: pointer;
+  border-radius: 1%;
+}
+
+#fullscreen-overlay .content {
+  max-width: 90vw;
+  text-align: center;
+}
+
+.nav-btn-fixed {
+  position: fixed;
+  bottom: 2vh;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 2vw;
+  z-index: 1100;
+}
+
+.nav-btn {
+  background: blue;
+  color: white;
+  width: 10vw;
+  padding: 1.5vh 1vh;
+  border: none;
+  font-size: 3vh;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.nav-btn.disabled {
+  background: gray !important;
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+/* Overlay layout */
+#overlay-text > div {
+  display: left;
+  gap: 2%;
+  flex-wrap: wrap;
+  font-size: 2vh;
+  justify-content: space-between;
+}
+
+#overlay-title {
+  text-align: center;
+  font-size: 5vh;
+  font-weight: bold;
+  padding-right: 5vw;
+  color: #fff;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  text-shadow: 0 0 8px rgba(0,0,0,0.7);
+}
+
+#overlay-text.fullscreen {
+  display: block;
+  height: 70vh;
+  width: 100%;
+  padding: 0;
+  font-size: 2vh;
+  margin: 0;
+  background-color: #fffdf7;
+  color: #222;
+  overflow-y: auto;
+  box-sizing: border-box;
+}
+.overlay-inner-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.undertitle-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1em;
+  width: 100%;
+  justify-items: center;
+  margin-bottom: 20px;
+}
+
+.overlay-content-flex {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2%;
+  justify-content: space-between;
+  width: 100%;
+  height: 70vh;
+}
+
+.overlay-undertitle {
+  font-size: 3vh;
+  padding: 10px;
+  text-align: center;
+  border-radius: 8px;
+  width: 90%;
+}
+
+
+/* Hide other columns in centered view */
+#overlay-text.centered .overlay-image-column,
+#overlay-text.centered .overlay-map-column,
+#overlay-text.centered .overlay-text-column {
+  display: none;
+}
+
+/* Image column */
+.overlay-image-column {
+  flex: 1;
+  max-width: 25%;
+  max-height: 80vh;
+}
+
+.slideshow-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  position: relative;
+  gap: 1vh; /* spacing between image, buttons, and caption */
+}
+
+.slideshow-image {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  border-radius: 10px;
+}
+.slideshow-controls {
+  display: flex;
+  justify-content: center;
+  gap: 1rem; /* space between buttons */
+  margin-top: 0.5rem;
+}
+.slide-btn {
+  font-size: 5vh;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  color: white;
+}
+.slideshow-caption {
+  text-align: center;
+  font-size: 1.8vh;
+  font-style: italic;
+  color: white;
+  margin-top: 1vh;
+}
+
+/* Text column */
+.overlay-text-column {
+  flex: 1;
+  width: 43%;
+  padding: 2%;
+  font-size: 2.5vh;
+  overflow-y: auto;
+}
+#overlay-text {
+  max-height: 60vh;
+  overflow-y: auto;
+}
+
+
+.overlay-map-column {
+  flex: 1;
+  max-width: 25%;
+  height: 30vh;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+
+  /* Center it vertically and horizontally */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto; /* 👈 This does the magic */
+}
+
+
+#inline-map-container {
+  width: 100%;
+  height: 70vh;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+#fullscreen-backdrop {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: transparent; /* fully transparent */
+  z-index: 999; /* lower than fullscreen-overlay, but high enough to block other UI */
+  pointer-events: auto; /* make sure it actually catches mouse events */
+}
+.popup-container {
+  width: 90%;
+  max-width: 90%;
+  font-size: 2.5vh;
+  line-height: 1.4;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.popup-container strong {
+  color: #a83a37;
+}
+
+.popup-line {
+  margin-bottom: 4%;
+}
+
+.popup-list {
+  max-height: 40%;
+  overflow-y: auto;
+  padding: 4% 0;
+  border-top: 1px solid #ccc;
+}
+
+.popup-list ul {
+  margin: 0;
+  padding-left: 5%;
+  font-size: 90%;
+  max-height: 40vh; /* or whatever height fits your popup design */
+  overflow-y: auto;
+}
+
+
+.popup-list li {
+  cursor: pointer;
+  color: #007bff;
+  text-decoration: underline;
+}

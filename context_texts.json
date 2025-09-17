@@ -1,0 +1,382 @@
+{
+  "pre": {
+    "københavn": {
+      "title": "København i mellemkrigstiden",
+      "images": [
+        {
+          "src": "images/Stauning.jpg",
+          "caption": "En socialdemokratisk valgplakat fra 1935 med mottoet Stauning eller kaos, taget fra Nationalmusset billedesamling"
+        },
+        {
+          "src": "images/KobenhavnHusTage.jpg",
+          "caption": "En billede af Københavns hustage under industrialiseringen, taget fra Nationalmusset billedesamling"
+        }
+      ],
+      "text": [
+        "Det danske samfund, var et samfund i hastig forandring. Befolkningstallet var voksede fra 3,25 mio. i 1921 til 3,85 mio. i 1940. Landet stod midt i forvandlingen fra tradionsbundet landbrugskultur til moderne industrisamfund med alle de sociale, politiske og kulturelle konflikter, det indebar.",
+        "Industrialiseringen medførte, at mange flyttede til byerne, ikke mindst til København. Arbejdsdeling blev mere udpræget, og en ny middelklasse voksede frem. Med urbaniseringen fulgte også nye livsformer, og 1930’erne betegnede da også et kulturelt opbrud. Det kulturelle opbrug i visse miljøer i storbyer var dog nok mere symptomer på forandringer end årsag til dem. I forandringer i balancen mellem land og by, mellem bønder og arbejderklasse, mellem land landbrug og industri, skal man finde de fundamentale årsager til opbruddet og de økonomiske, sociale og kulturelle konflikter. Og den store krise i tiårets første halvdel forstærkede disse konflikter. ",
+        "side 55- 57"
+      ],
+      "source": "https://ereolen.dk/ting/object/870970-basis%3A48182828"
+    },
+    "sønderjylland": {
+      "title": "Sønderjylland i mellemkrigstiden",
+      "images": [
+        {
+          "src": "images/hestevognUnder.jpg",
+          "caption": "Tankspæringer i det sydslige Jylland anlagt i den sidste del af besættelsen, taget fra Nationalmusset billedesamling"
+        },
+        {
+          "src": "images/dnsap.jpg",
+          "caption": "dansk nazist, ikke alle danskere var modstandsfolk, taget fra Nationalmusset billedesamling"
+        },
+        {
+          "src": "images/kongChristianX",
+          "caption": "Christian X's Ridt over den gamle Grænse 1920, taget fra Nationalmusset billedesamling"
+        }
+      ],
+      "text": [
+        "Gennem 1930’erne foresatte uroen i Danmark med hensyn til spørgsmålet om, hvilken betydning den nazistiske vækkelse i Tyskland ville få for den nye grænsedragning fra 1920. En grænse, der endnu ikke var anerkendt fra tysk side. Sønderjylland var generelt hårdt ramt af den økonomiske krise.",
+        "Samtidig blev der agiteret voldsomt blandt sydslesvigske nazister for at Nordslesvig tilbage, om nødvendigt med magt. Fra foråret 1933 nåede denne agitation nærmest opstandslignede dimensioner. Den blev kendt som ”Påskeblæsten” og bevirkede, at fleste af det tyske mindretals organisationer i Sønderjylland i løbet af 1933-35 blev fuldstændigt nazificeret. For Danmark var grænsespørgsmålet i 1930’erne et evigt tilbagevende problem.",
+        "side 79"
+      ],
+      "source": "https://ereolen.dk/ting/object/870970-basis%3A48182828"
+    },
+    "danmark": {
+      "title": "Kaos, landbrug og industri",
+      "images": [
+        {
+          "src": "images/hjemkørsel.jpg",
+          "caption": "Hjemkørsel viser en bonde der med håndkraft og hestevogne klarer høsten, taget fra Nationalmusset billedesamling"
+        },
+        {
+          "src": "images/odenseHavn.jpg",
+          "caption": "En billede af Odense havn fra mellemkrigstiden, taget fra Nationalmusset billedesamling"
+        },
+        {
+          "src": "images/Stauning.jpg",
+          "caption": "En socialdemokratisk valgplakat fra 1935 med mottoet Stauning eller kaos"
+        }
+      ],
+      "text": [
+        "Det danske samfund, var et samfund i hastig forandring. Befolkningstallet var voksede fra 3,25 mio. i 1921 til 3,85 mio. i 1940. Landet stod midt i forvandlingen fra tradionsbundet landbrugskultur til moderne industrisamfund med alle de sociale, politiske og kulturelle konflikter, det indebar.",
+        "Hvor landbruget var et erhverv, der blev hårdest ramt af krigen, voksede industriens andel af samlede produktion. Industriens ledere krævede – og fik- politisk indflydelse, og den støt voksende arbejderbefolkning gjorde det samme, mens mange landbrugere i protest søgte til højrepolitiske yderfjløj. Tradiontionalle værdier var i defensiven, og i landbruget og i provinsbyerne så man med skepsis på den fremvoksende bykultur, der i manges øjne fremstod som en uskøn blanding af politisk venstrefløj, og arbejdsløshed, ugudelighed og kulturel dekadence. Det moderne havde holdt sit indtog og bidt sig fast. Men det, for alvor tegnede 1930’ernes Danmark, var den økonomiske krise, der var brudt ud i USA i 1929.",
+        "side 55- 58"
+      ],
+      "source": "https://ereolen.dk/ting/object/870970-basis%3A48182828"
+    },
+    "default": {
+      "title": "Danmark i mellemkrigstiden",
+      "images": [
+        {
+          "src": "images/hjemkørsel.jpg",
+          "caption": "Hjemkørsel viser en bonde der med håndkraft og hestevogne klarer høsten, taget fra Nationalmusset billedesamling"
+        },
+        {
+          "src": "images/odenseHavn.jpg",
+          "caption": "En billede af Odense havn fra mellemkrigstiden, taget fra Nationalmusset billedesamling"
+        },
+        {
+          "src": "images/Stauning.jpg",
+          "caption": "En socialdemokratisk valgplakat fra 1935 med mottoet Stauning eller kaos, taget fra Nationalmusset billedesamling"
+        }
+      ],
+      "text": [
+        "Det danske samfund, var et samfund i hastig forandring. Befolkningstallet var voksede fra 3,25 mio. i 1921 til 3,85 mio. i 1940. Landet stod midt i forvandlingen fra tradionsbundet landbrugskultur til moderne industrisamfund med alle de sociale, politiske og kulturelle konflikter, det indebar.",
+        "Hvor landbruget var et erhverv, der blev hårdest ramt af krigen, voksede industriens andel af samlede produktion. Industriens ledere krævede – og fik- politisk indflydelse, og den støt voksende arbejderbefolkning gjorde det samme, mens mange landbrugere i protest søgte til højrepolitiske yderfjløj. Tradiontionalle værdier var i defensiven, og i landbruget og i provinsbyerne så man med skepsis på den fremvoksende bykultur, der i manges øjne fremstod som en uskøn blanding af politisk venstrefløj, og arbejdsløshed, ugudelighed og kulturel dekadence. Det moderne havde holdt sit indtog og bidt sig fast. Men det, for alvor tegnede 1930’ernes Danmark, var den økonomiske krise, der var brudt ud i USA i 1929.",
+        "side 55- 58"
+      ],
+      "source": "https://ereolen.dk/ting/object/870970-basis%3A48182828"
+    }
+  },
+  "during": {
+    "københavn": {
+      "title": "København i mellemkrigstiden",
+      "images": [
+        {
+          "src": "images/kontorfolkKøbenhavn.jpg",
+          "caption": "En billede af kontorfolk i København på enten cykel eller ladet af en lastvogn, taget fra Nationalmusset billedesamling"
+        },
+        {
+          "src": "images/hipoKontrol.jpg",
+          "caption": "En billede af kontrol af ID-papir under bestættelsen, taget fra Nationalmusset billedesamling"
+        },
+        {
+          "src": "images/tyskParade.jpg",
+          "caption": "En billede af en tysksoldaterparade med orkester, parade og presse, taget fra Nationalmusset billedesamling"
+        }
+      ],
+      "text": [
+        "København i mellemkrigstiden (1919-1939) var en by præget af kontraster og forandring, hvor modernitet og tradition mødtes. Byens økonomiske og sociale landskab var markant påvirket af den verdensomspændende depression i 1930'erne og de politiske strømninger, der spirede på tværs af Europa.",
+        "På den ene side oplevede København en blomstring af kultur og arkitektur. Funktionalismen vandt indpas, bl.a. med Bellevue Teatret og Arne Jacobsens tidlige værker. Samtidig blomstrede teater, litteratur og jazz – med steder som Tivoli og Nyhavn som kulturelle samlingspunkter.",
+        "Men byen oplevede også sociale og økonomiske udfordringer. Arbejdsløshed og arbejderbevægelsens kamp for bedre vilkår prægede byens liv. Frygten for nye konflikter voksede, og Danmarks neutralitet blev en central politisk bekymring."
+      ],
+      "source": "https://gyldendalogpolitikensdanmarkshistorie.lex.dk/Mellemkrigstiden"
+    },
+    "sønderjylland": {
+      "title": "Sønderjylland under besat eller frisat?",
+      "images": [
+        {
+          "src": "images/hestevognUnder.jpg",
+          "caption": "Billede fra landet med ung pige og hund samt hestevogn på åben vej, taget fra Nationalmusset billedesamling"
+        },
+        {
+          "src": "images/dnsap.jpg",
+          "caption": "Billede af Danmarks nationalsocialistiske arbejderparti i uniform, taget fra Nationalmusset billedesamling"
+        }
+      ],
+      "text": [
+        "Sønderjylland var den danske nazifører Frits Clausens (1893-1947) hjemstavn, og allerede fra 1930’erne var landsdelen en højborg for det danske nazistparti, DNSAP. Mange nazister meldte sig til tysk krigstjeneste i Waffen-SS, og sammen med det tyske mindretals ca. 750 dræbte i aktiv tysk fronttjeneste gav dette et højt tab af menneskeliv i den sønderjyske befolkning. Den nære beliggenhed til Tyskland gjorde det også oplagt for mange at søge arbejde sydpå, ligesom nærheden til grænsen var den væsentligste faktor bag placeringen af Frøslevlejren, det tyske sikkerhedspolitis fangelejr, lige nord for den dansk-tyske grænse. Særegent for Sønderjylland var, at modstandsbevægelsen her fik et stærkt borgerlig-nationalt islæt, mens kommunisternes betydning var langt mindre end i det øvrige Danmark.",
+        "Krigens gang og frontudviklingen manifesterede sig specielt i Sønderjylland: I efteråret 1944 anlagde den tyske værnemagt blokeringsstillinger tværs over Sønderjylland, vendt mod et eventuelt allieret angreb nordfra ind i Nordtyskland. Men i krigens sidste måned blev en af disse stillinger, 'Krimhilde', vendt, således at den kunne forsvare mod et eventuelt angreb sydfra. Den blev primært udført af frivillige skansegravere fra det tyske mindretal. Den allierede fremrykning og de militære kampe stoppede lige syd for grænsen, men i krigens sidste dage blev Sønderjylland i form af taktiske angreb fra jagerfly sporadisk inddraget i operationsområdet for den britiske feltmarskal Montgomerys 21. armégruppe."
+      ],
+      "source": "https://danmarkshistorien.lex.dk/Bes%C3%A6ttelsen_1940-1945_i_s%C3%B8nderjysk_perspektiv"
+    },
+    "danmark": {
+      "title": "Danmark under besættelsen",
+      "images": [
+        {
+          "src": "images/tyskeSoldater.jpg",
+          "caption": ", taget fra Nationalmusset billedesamling"
+        },
+        {
+          "src": "images/augustOprør.jpg",
+          "caption": ", taget fra Nationalmusset billedesamling"
+        },
+        {
+          "src": "images/hestevognUnder.jpg",
+          "caption": "Billede fra landet med ung pige og hund samt hestevogn på åben vej, taget fra Nationalmusset billedesamling"
+        }
+      ],
+      "text": [
+        "I de første år af Besættelsen var mange danskeres hverdag ikke forandret så meget. Børn gik i skole og legede, som de plejede. De voksne gik på arbejde, handlede ind og opførte sig nogenlunde, som de plejede. Den store forskel var, at der var tyske soldater i gaderne. Det var dem, der bestemte. Den tyske besættelsesmagt bestemte også, hvad der måtte stå i aviserne, og hvad der blev sagt i radioen. Det kalder man pressecensur. På den måde kunne de hele tiden fortælle folk, at Tyskland klarede sig godt i krigen, og at de ville vinde.",
+        "Som tiden gik, blev hverdagen mere trist for danskerne. Pludselig kunne man ikke købe de samme varer i butikkerne som før. Derfor fik folk en slags madbilletter, rationeringsmærker. Dem kunne man bytte til mel, havregryn, mælk eller andre fødevarer. Besættelsestiden var hård, men ingen døde af sult i Danmark. Der begyndte også at lyde luftalarmer, og når det skete, skulle man skynde sig ned i det nærmeste beskyttelsesrum. Noget andet, der gjorde dagligdagen anderledes, var, at alle skulle rulle nogle særlige sorte gardiner ned foran vinduerne. Havde man ikke nogen, måtte man selv lave dem. Årsagen var, at tyskerne ville gøre det besværligt for deres fjender at finde vej, hvis de fløj hen over Danmark. Hvis alt var mørkt, var det svært for flyene at bombe de bygninger, som var vigtige for besættelsesmagten. På mange måder var besættelsestiden en tung og trist tid for danskerne. Men Danmark var faktisk et af de besatte lande, hvor det var bedst at leve i under Anden Verdenskrig. Polen var til gengæld et af de værste lande at leve i. Her døde cirka 6 millioner polakker. Det var omkring 20 procent af befolkningen."
+      ],
+      "source": "https://faktalink.dk/emner/besaettelsen-1940-45-faktalink-light#9-april-1940"
+    },
+    "default": {
+      "title": "Dansk landbrug i mellemkrigstiden",
+      "images": [
+        {
+          "src": "images/hjemkørsel.jpg",
+          "caption": "Hjemkørsel viser en bonde der med håndkraft og hestevogne klarer høsten, taget fra Nationalmusset billedesamling"
+        }
+      ],
+      "text": [
+        "I mellemkrigstiden (1919-1939) spillede landbruget en central rolle i det danske samfund, men blev hårdt ramt af den økonomiske krise. Mange små landbrugskollektiver måtte lukke, mens mekaniseringen ændrede arbejdslivet i landdistrikterne.",
+        "De mindre byer fungerede som knudepunkter, men haltede efter de større byer i vækst. Industrialiseringen gik langsomt, og mange levede stadig af landbrug og håndværk. Samtidig spillede arbejderbevægelsen en vigtig rolle i både politik og sociale forhold.",
+        "Kulturelt holdt man fast i traditioner som folkedans, men moderne strømninger fra byerne sivede også ind. Forsamlingshuse var vigtige samlingssteder for lokalbefolkningen."
+      ],
+      "source": "https://gyldendalogpolitikensdanmarkshistorie.lex.dk/Mellemkrigstiden"
+    }
+  },
+  "BegrundelseGroup": {
+    "politi og gendarm": {
+      "title": "Politi og sikkerhedspoliti",
+      "images": [
+        {
+          "src": "images/OperationMowe.jpg",
+          "caption": "Den tyske besættelsesmagt arrestere ca 2000 politifolk rundt om i Danmark, taget fra Nationalmusset billedesamling"
+        },
+        {
+          "src": "images/politibetjente.jpg",
+          "caption": "Billede af politibetjente som bliver eksoteret af tyske soldater under aktion Möve som blev igangsat af den tyske besættelsesmagt i 1944, taget fra Nationalmusset billedesamling"
+        }
+      ],
+      "text": [
+        "Den 19. september 1944 blev det danske politi i København, Aarhus, Aalborg og Odense arresteret. Aktionen, som blev kaldt ”Operation Möwe”.",
+        "Fra tysk side blev arrestationen begrundet med, at det danske politi hjalp modstandsbevægelsen og havde holdt hånden over dem. Den 17. september 1944 havde kommandanten for Gestapo på Fyn, Kurt Alfred Guttmann, modtaget et brev fra sin overordnede,",
+        " SS-politigeneral Günther Pancke. I brevet, som Guttmann ikke måtte åbne, før han havde modtaget ordren ”Möwe”, stod der, at det odenseanske politi skulle afvæbnes og arresteres.",
+        "Inden arrestationen havde Pancke udtrykt sin utilfredshed med politiet. Den 14. september 1944 havde bl.a. Fyens Stiftstidende bragt SS-politigeneralens klage over, at antallet af politiske mord havde taget overhånd. Han mente desuden, at politiet ikke havde arbejdet hårdt nok for at forhindre disse mord,",
+        " som modstandsbevægelsen begik.  Udover mistanken om politiets samarbejde med modstandsbevægelsen var besættelsesmagten bange for, at det danske politi ville falde dem i ryggen, hvis der skulle komme en allieret invasion."
+      ],
+      "source": "https://odenseleksikon.wordpress.com/arrestation-af-politiet/"
+    },
+    "militær og undergrundshæren": {
+      "title": "Militære aktiviteter og hjemmeværn",
+      "images": [
+        {
+          "src": "images/undergrundshæren.jpg",
+          "caption": "Billede af Kaptajn Harald Martin Gjølby Buch født 06-04-1893. Dæknavn Direktøren. Medlem af modstandsbevægelse i Odense og chef for region Fyn fra 01-10-1943 til sommeren 1945, taget fra Nationalmusset billedesamling"
+        },
+        {
+          "src": "images/undergrundshærenSoldater.jpg",
+          "caption": "Billede af modstandsbevægelsens undergrundsoldater fra under besættelsen, taget fra Nationalmusset billedesamling"
+        }
+      ],
+      "text": [
+        "I andre lande som Polen og Jugoslavien førte undergrundshære guerillakrig mod besættelsesmagten",
+        "Dette skete dog ikke i Danmark selvom, man havde en undergrundshær, men var i 1942 SOE's vigtigste partner dog hærens efterretningssektion",
+        "Fra årsskiftet 1943-1944 tog dannelsen af illegale grupper fart. Danmark blev indordnet i den vestallierede strategi og opdeltes efter direktiv fra SOE i seks regioner, i hvilke der skulle dannes militærgrupper, 'ventegrupper', som skulle assistere de allierede tropper, når de nåede til Danmark.",
+        "Efter august 1943, hvor indholdet i den mere aktivistiske del af den illegale presse blev mere og mere radikalt. Tonen mod besættelsesmagten og ikke mindst dens danske håndlangere i f.eks. Shalburgkorpset og HIPO blev meget skarp og aggressiv. Samtidig forsøgte forskellige politiske aktører i modstandsbevægelsen at bringe sig i position til efterkrigstidens politiske magtkamp.",
+        "Der blev i stadig stigende omfang indsat officerer på de ledende poster, og den tidligere dominans af kommunister og folk fra Dansk Samling svækkedes."
+      ],
+      "source": "https://lex.dk/Modstandsbev%C3%A6gelsen_i_Danmark_1940-1945"
+    },
+    "illegale blade": {
+      "title": "Illegale blade og tryksager",
+      "images": [
+        {
+          "src": "images/illegalePresse.jpg",
+          "caption": "Billede af printning af illigale aviser under besættelsen, taget fra Nationalmusset billedesamling"
+        },
+        {
+          "src": "images/deFrieDanskeAvis",
+          "caption": "Billede af den illegale avis De Frie Danske som viser Danmarkskort med Dannebrog og anti-tysk propegangda, taget fra Nationalmusset billedesamling"
+        }
+      ],
+      "text": [
+        "De illegale blade blev skrevet og mangfoldiggjort på gennemslagspapir eller stencils og derefter duplikatortrykt. Det foregik på loftsværelser og i kældre i dybeste hemmelighed. De blev ofte trykt lokalt efter forlæg fra den centrale hovedredaktion og delt rundt efter princippet 'læs og giv videre'. I begyndelsen var oplagene generelt meget små, typisk et par hundrede. Den illegale arbejdsform og problemerne med at skaffe papir satte sine begrænsninger. Den stencilerede produktionsform fortsatte for nogle blades vedkommende indtil befrielsen, men flere af de større landsdækkende blade udkom månedsvis eller endda på ugebasis med decideret bogtrykte udgaver. Frit Danmark udkom således i slutningen af besættelsen i oplag på op mod 150.000 eksemplarer, trykt på rigtige avistrykkerier, som bladgruppen via sit kontaktnet havde fået adgang til",
+        "Efter august 1943, hvor indholdet i den mere aktivistiske del af den illegale presse blev mere og mere radikalt. Tonen mod besættelsesmagten og ikke mindst dens danske håndlangere i f.eks. Shalburgkorpset og HIPO blev meget skarp og aggressiv. Samtidig forsøgte forskellige politiske aktører i modstandsbevægelsen at bringe sig i position til efterkrigstidens politiske magtkamp.",
+        "Det illegale pressearbejde var en indslusningskanal for modstandsbevægelsen. Mangt en sabotør havde tidligere stået ved duplikatorens håndsving. Bladgruppernes kommunikationsnetværk understøttede også hyppigt andre modstandsaktiviteter, f.eks. ved at stille logi til rådighed."
+      ],
+      "source": "https://danmarkshistorien.lex.dk/Illegale_blade_1940-1945"
+    },
+    "støtte til modstandsbevægelsen": {
+      "title": "Støtte til forfulgte og modstandsfolk",
+      "images": [
+        {
+          "src": "images/sverigeflygtning.jpg",
+          "caption": "Billede som viser danske flygtninge som er flygtet til Sverige som var neutral under anden verdenskrig, taget fra Nationalmusset billedesamling"
+        },
+        {
+          "src": "images/våbendepotGer.Krogh.jpg",
+          "caption": "Billede som viser våbendepot fra besættelsen. Våbendepotet var tilhørende modsyandsbevægelen, taget fra Nationalmusset billedesamling"
+        },
+        {
+          "src": "images/ModstandArrest",
+          "caption": "Billede af arrestation af mistænkt modstandsmand under besættelsen, taget fra Nationalmusset billedesamling"
+        }
+      ],
+      "text": [
+        "Modstand bestod ikke kun i at udføre sabotage eller likvideringer. En anden væsentlig form for modstand var det massive støtteapparat bag sabotagen. Det bestod i at støtte sabotagefolkene ved enten at smugle og/eller huse våben og personer.",
+        "Modstand bestod ikke kun i at udføre sabotage eller likvideringer. En anden væsentlig form for modstand var det massive støtteapparat bag sabotagen. Det bestod i at støtte sabotagefolkene ved enten at smugle og/eller huse våben og personer.",
+        "En mulig nedkastingsmission kunne se sådan her ud:",
+        "Modtagefolkene fik besked om nedkastningen samme aften, som den ville finde sted, gennem en kodemeddelelse i den engelske radio BBC's første aftenudsendelse. I starten var det bare en bestemt vending, f.eks. 'Husk at lytte igen senere i aften'. Senere gik man over til at sende kodemeddelelserne i blokke i form af hilsener til opdigtede personer: Hilsen til Karl, Niels, Anna osv.",
+        "Containerne med våben, ammunition og sprængstof var tunge. Man skulle være fire mand om at bære en, og en nedkastning kunne bestå af op til 15 containere, så modtageholdet skulle være forholdsvis stort. Der skulle også sættes vagter ud, så man ikke blev overrasket af en tysk patrulje eller tilfældige forbipasserende.",
+        "Bortkørsel af de store mængder materiel krævede, at man rådede over hestevogne eller helst en lastbil. Materiellet skulle hurtigst muligt lægges på lager i sikre depoter.",
+        "Hvis nedkastningen omfattede faldskærmsagenter, skulle de som det allerførste bringes bort fra pladsen. Det var defor nyttigt, hvis modtagegrupperne omfattede folk som læger og dyrlæger, der havde tilladelse til at køre trods besættelsestidens generelle forbud mod privat bilkørsel."
+      ],
+      "source": "https://natmus.dk/historisk-viden/danmark/besaettelsestiden-1940-1945/hvidstengruppen/en-modtagelse/"
+    },
+    "sabotage og likvidering": {
+      "title": "Sabotage og væbnet modstand",
+      "images": [
+        {
+          "src": "images/stikkerlikvideringer.jpg",
+          "caption": "Billede af tyske soldater foran butik efter en stikkerlikvidering af modstandsbevægelsen, taget fra Nationalmusset billedesamling"
+        },
+        {
+          "src": "images/Jernbanekort.jpg",
+          "caption": "Billede af sabotage af den danske jernbane af den danske modstandsbevægelse som blev brugt af tyskerne til fragt af  krigsmaterial og andre krigsressoucer, taget fra Nationalmusset billedesamling"
+        },
+        {
+          "src": "images/JernbaneTog.jpg",
+          "caption": "Billede af tog som blev afsporret af mulig sabotage af den danske modstandsbevægelse, taget fra Nationalmusset billedesamling"
+        }
+      ],
+      "text": [
+        "I Danmark er antallet af industrisabotager under besættelsen opgjort til 2801, mens antallet af jernbanesabotager udgør 1526. Tallene for kalenderårene 1940-42 udgør henholdsvis 73 og 2, hvad der klart viser, at fænomenet fortrinsvis prægede den sidste del af besættelsen.",
+        "Industrisabotagen blev generelt udført af organiserede grupper, men der var ikke nogen samlet strategi bag. Den ramte dansk produktion til Tyskland af for eksempel skibs- og flydele, våben, radiokommunikation og lignende. Men der kunne også være tale om attentater på produktionen af for eksempel trækasser til opbevaring af eksportfisk eller autoværksteder, der reparerede for besættelsesmagten. Endelig var der mange mindre aktioner mod den lokale slagter eller bager, der efter sigende var lidt for glad for at handle med de tyske soldater. Mens man i krigens første år overvejende forøvede brandattentater, da disse ikke krævede avancerede materialer og teknologisk ekspertise, gik man fra 1943 i større grad over til brug af sprængstof med avancerede tændingsmekanismer, som blandt andet den britiske efterretningsorganisation Special Operations Executive leverede.",
+        "Jernbanesabotagen fandt overvejende sted i krigens sidste år, i 1944 og især 1945. Formålet var her fortrinsvis at forhindre tyske troppetransporter fra Norge og Danmark til fronterne på kontinentet sydpå. Størstedelen af jernbanesabotagen blev udøvet i samarbejde med de vestallierede, der ikke kun leverede sprængstoffet, men også fra London sendte efterretninger om de tyske troppebevægelser."
+      ],
+      "source": "https://danmarkshistorien.lex.dk/Sabotage,_1940-1945"
+    },
+    "andet": {
+      "title": "Andet eller uklassificeret begrundelse",
+      "images": [
+        {
+          "src": "images/augustOprør.jpg",
+          "caption": "Billede af augustoprøret i 1943 som udsprang i Odense, taget fra Nationalmusset billedesamling"
+        },
+        {
+          "src": "images/ModstandArrest.jpg",
+          "caption": "Billede af arrestation af mistænkt modstandsmand under besættelsen, taget fra Nationalmusset billedesamling"
+        }
+      ],
+      "text": [
+        "I Danmark er antallet af industrisabotager under besættelsen opgjort til 2801, mens antallet af jernbanesabotager udgør 1526. Tallene for kalenderårene 1940-42 udgør henholdsvis 73 og 2, hvad der klart viser, at fænomenet fortrinsvis prægede den sidste del af besættelsen.",
+        "Industrisabotagen blev generelt udført af organiserede grupper, men der var ikke nogen samlet strategi bag. Den ramte dansk produktion til Tyskland af for eksempel skibs- og flydele, våben, radiokommunikation og lignende. Men der kunne også være tale om attentater på produktionen af for eksempel trækasser til opbevaring af eksportfisk eller autoværksteder, der reparerede for besættelsesmagten. Endelig var der mange mindre aktioner mod den lokale slagter eller bager, der efter sigende var lidt for glad for at handle med de tyske soldater. Mens man i krigens første år overvejende forøvede brandattentater, da disse ikke krævede avancerede materialer og teknologisk ekspertise, gik man fra 1943 i større grad over til brug af sprængstof med avancerede tændingsmekanismer, som blandt andet den britiske efterretningsorganisation Special Operations Executive leverede.",
+        "Jernbanesabotagen fandt overvejende sted i krigens sidste år, i 1944 og især 1945. Formålet var her fortrinsvis at forhindre tyske troppetransporter fra Norge og Danmark til fronterne på kontinentet sydpå. Størstedelen af jernbanesabotagen blev udøvet i samarbejde med de vestallierede, der ikke kun leverede sprængstoffet, men også fra London sendte efterretninger om de tyske troppebevægelser."
+      ],
+      "source": "https://danmarkshistorien.lex.dk/Sabotage,_1940-1945"
+    }
+  },
+  "transit": {
+    "froeslev": {
+      "title": "Ankomst til Frøslevlejren",
+      "images": [
+        {
+          "src": "images/frøslevStue.jpg",
+          "caption": "Billede fra stue i Frøslev-lejeren som viser danske indsatte, taget fra Nationalmusset billedesamling"
+        },
+        {
+          "src": "images/FrVagttårn.jpg",
+          "caption": "Billede af vagt i vagttårn i Frøslev-lejeren som blev varetaget af det tyske Ordnungspolizie som var den regulære politistyrke i NAzi Tyskalnd fra 1936 til 1945, taget fra Nationalmusset billedesamling"
+        }
+      ],
+      "text": [
+        "Den 13. august 1944 blev de første 750 danske fanger, som havde siddet indespærret i interneringslejren Horserød på Sjælland, sendt til Frøslevlejren. Lejren husede efterfølgende det tyske sikkerhedspolitis fanger i Danmark.",
+        " Sikkerhedspolitiet lagde også retningslinjerne for driften. Den øverste ledelse havde, ganske som i en tysk kz-lejr, SS-mandskab. Den indre lejrledelse og opsynet med de danske fanger varetog hovedsageligt det tyske Ordnungspolizei.",
+        "Frøslevlejren var helt speciel i europæisk sammenhæng, idet tyskerne havde accepteret, at det danske fængselsvæsen/Den Danske Forvaltning stod for fangernes forplejning og andre forsyninger."
+      ],
+      "source": "https://natmus.dk/museer-og-slotte/froeslevlejrens-museum/lejrens-historie/froeslevlejren-1944-45/"
+    },
+    "kz": {
+      "title": "Afgang til KZ-lejr",
+      "images": [
+        {
+          "src": "images/danskPolitiMuhlberg.jpg",
+          "caption": "Billede af Muhlberg som var krigsfangelejr hvor danske politifolk blev sendt til efter tyskernes aktion Möve, taget fra Nationalmusset billedesamling"
+        },
+        {
+          "src": "images/Buchenwald.jpg",
+          "caption": "Billede fra kocentrationslejren Buchenwald, taget fra Nationalmusset billedesamling"
+        }
+      ],
+      "text": [
+        "Næsten 6.100 danskere blev deporteret til kz-lejr eller tugthus i Tyskland. Deportationerne startede den 1. oktober 1943, umiddelbart efter den danske regering havde trukket sig. Først jøderne og kommunisterne, derefter modstandsfolk, kriminelle, såkaldte ’asociale’, politifolk og grænsegendarmer. De danske myndigheder protesterede, og henviste til de tyske løfter fra den 9. april 1940.",
+        "Embedsmændene i centraladministrationen, det såkaldte ’departementschefstyre’, overvejede at trække sig (hvilket ville bane vejen for et tysk styre i Danmark), men besluttede at blive og i stedet forsøge at komme de deporterede til undsætning. Det gjorde man ved at etablere kontakt mellem de deporterede og deres pårørende, ved at forsøge at få lov til at inspicere de kz-lejre, hvor danskerne sad, ved at sørge for, at de deporterede modtog pakker fra Danmark med mad og tøj. Og tilsidst ved at få de danske fanger hjem til Danmark igen.",
+        "De sidste danske fanger var blevet evakueret fra lejren med de hvide busser d. 1. marts."
+      ],
+      "source": "https://natmus.dk/historisk-viden/danmark/besaettelsestiden-1940-1945/de-hvide-busser/danske-i-kz-lejr/"
+    },
+    "sweden": {
+      "title": "Redning til Sverige",
+      "images": [
+        {
+          "src": "images/politiIHvidebus.jpg",
+          "caption": "Billede af en af de hvide busser som blev brugt til at bringe fanger fra koncentrationslejrene og krigsfangelejrene til Sverige, taget fra Nationalmusset billedesamling"
+        },
+        {
+          "src": "images/hvidebusserTyskland.jpg",
+          "caption": "Billede af kotege af hvide busser som blev brugt til at fragte fanger fra koncentrationslejre og krigsfangelejre til neutrale Sverige, taget fra Nationalmusset billedesamling"
+        }
+      ],
+      "text": [
+        "På initiativ af H.H. Koch, departementschef i Socialministeriet, og Frants Hvass fra Udenrigsministeriet blev der oprettet et hjælpekorps, der fra december 1944 kunne hjemføre danske politibetjente, grænsegendarmer og senere også politiske fanger fra Tyskland til Frøslevlejren.",
+        "På svensk-norsk initiativ påbegyndte Svensk Røde Kors under grev Folke Bernadotte i februar 1945 en aktion med det mål at befri samtlige norske og danske fanger i Tyskland og bringe dem til Sverige.",
+        "I marts-april 1945 lykkedes det at overføre næsten alle danske og norske fanger, lidt mere end 10.000 personer, til Sverige gennem Danmark."
+      ],
+      "source": "https://lex.dk/de_hvide_busser"
+    },
+    "release": {
+      "title": "Løsladelse og hjemkomst",
+      "images": [
+        {
+          "src": "images/hvidebusserTyskland.jpg",
+          "caption": "Billede af kotege af hvide busser som blev brugt til at fragte fanger fra koncentrationslejre og krigsfangelejre til neutrale Sverige, taget fra Nationalmusset billedesamling"
+        },
+        {
+          "src": "images/politiIHvidebus.jpg",
+          "caption": "Billede af en af de hvide busser som blev brugt til at bringe fanger fra koncentrationslejrene og krigsfangelejrene til Sverige, taget fra Nationalmusset billedesamling"
+        }
+      ],
+      "text": [
+        "Efter Danmarks befrielse i maj 1945 blev mange fanger løsladt og vendte hjem fra lejre og skjulesteder.",
+        "Hjemkomsten var ofte præget af både glæde og traumer – mange vendte hjem til en virkelighed, der var forandret.",
+        "Nogle blev fejret som helte, andre måtte kæmpe for at finde deres plads i efterkrigstidens Danmark."
+      ],
+      "source": "https://danmarkshistorien.dk/vis/materiale/loesladelse-og-eftertid"
+    }
+  }
+}

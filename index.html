@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Project Froeslevlejren, Transforming Databases to a Presentation</title>
+
+  <!-- External libraries -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+  
+</head>
+
+<body>
+  <!-- Top-top-bar with logo and title -->
+  <div id="top-top-bar">
+    <div class="top-top-bar-inner">
+      <span onclick="location.reload()">FRØSLEVLEJREN'S FANGEKARTOTEK:</span>
+      <p id="filter-description">Vælg filter</p>
+    </div>
+  </div>
+
+  <!-- Top-bar with filters -->
+  <div id="top-bar">
+    <div class="filter-group">
+      <input list="birth-city-options" id="birth-city-select" placeholder="Fødeby" />
+      <datalist id="birth-city-options"></datalist>
+
+      <input list="living-city-options" id="living-city-select" placeholder="Hjemby ved Arrestation" />
+      <datalist id="living-city-options"></datalist>
+
+      <input list="arrestation-options" id="arrestation-select" placeholder="Arrestationsgrundlag" />
+      <datalist id="arrestation-options"></datalist>
+
+      <button id="clear-filters">Ryd filtre</button>
+    </div>
+  </div>
+
+  <!-- Search bar and database on the sidebar -->
+  <div id="layout">
+    <div id="map"></div>
+    <div id="sidebar">
+      <input type="text" id="search-bar" placeholder="Søg i fangekartotek..." />
+      <ul id="name-options"></ul>
+    </div>
+  </div>
+
+  <!-- Fullscreen overlay -->
+  <div id="fullscreen-backdrop"></div>
+
+  <div id="fullscreen-overlay">
+    <button class="close-btn" onclick="closeOverlay()">Close</button>
+    <div class="content">
+      <h1 id="overlay-title">Title</h1>
+      <div id="overlay-text"></div>
+    </div>
+    <div class="nav-btn-fixed">
+      <button class="nav-btn" onclick="showPrevious()">Previous</button>
+      <button class="nav-btn" onclick="showNext()">Next</button>  
+    </div>
+  </div>
+
+  <!-- Custom Script -->
+  <script src="script.js"></script>
+</body>
+</html>
